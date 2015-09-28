@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tutorial Cursor Loader</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_custom_list_item">CustomListItem</string>
+</resources>
